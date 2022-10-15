@@ -5,6 +5,9 @@ This is a version 1.0 of TasksManager!
 # Features
 - easy to use 
 
+# Install
+intellij idea users - import maven projects
+
 # Usage 
 
 TasksMangar options:

@@ -8,8 +8,8 @@ This is a version 1.0 of TasksManager!
 # Usage 
 
 TasksMangaer options:
--add tasks
--remove tasks
--list tasks
--exit
+- add tasks
+- remove tasks
+- list tasks
+- exit
 

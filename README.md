@@ -7,7 +7,7 @@ This is a version 1.0 of TasksManager!
 
 # Usage 
 
-TasksMangaer options:
+TasksMangar options:
 - add tasks
 - remove tasks
 - list tasks
